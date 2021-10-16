@@ -1,0 +1,12 @@
+body {
+  background-image:url("chess.jpg")
+}
+p {
+  text-align:center;
+  color: #cea23c;
+  font-family:Century Gothic;
+  font-weight: bold;
+}
+h1 {
+  font-weight: bold;
+}
